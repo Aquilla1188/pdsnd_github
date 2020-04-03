@@ -178,7 +178,9 @@ def user_stats(df):
 
 
 def main():
+    #the main thread 
     while True:
+    # loading data
         city, month, day = get_filters()
         df = load_data(city, month, day)
 
@@ -186,7 +188,7 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
-        
+        # asking user if he want to see the raw data
         i = 0
         raw = input("\nWould you like to see first 5 rows of raw data; type 'yes' or 'no'?\n").lower()
         pd.set_option('display.max_columns',200)
