@@ -5,7 +5,8 @@
 bikeshare
 
 ### Description
-Describe what your project is about and what it does
+this project help in getting statictics regarding bike share company customers 
+
 
 ### Files used
 Include the files used
