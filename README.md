@@ -12,5 +12,5 @@ this project help in getting statictics regarding bike share company customers
 bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://www.w3schools.com/python/python_dictionaries.asp
+https://www.geeksforgeeks.org/python-dictionary/
