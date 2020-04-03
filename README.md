@@ -5,7 +5,10 @@
 bikeshare
 
 ### Description
-this project help in getting statictics regarding bike share company customers 
+this project help in getting statictics regarding bike share company customers in
+- chicago
+- new york city 
+- washington
 
 
 ### Files used
