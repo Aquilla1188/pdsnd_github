@@ -165,17 +165,14 @@ def user_stats(df):
     except:
         print("sorry , there is no gender data")
 
-   
-
+  
     # TO DO: Display earliest, most recent, and most common year of birth
     try:
         print('earliest Birth year for a user is :{}\nthe most recent Birth year for a user is :{}\nthe most common year of birth is :{}'.format(df['Birth Year'].min(),df['Birth Year'].max(),df['Birth Year'].mode())) 
 
     except:
         print("sorry , there is no Birth year data")
-
-   
-
+        
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
