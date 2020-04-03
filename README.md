@@ -14,3 +14,4 @@ bikeshare.py
 ### Credits
 https://www.w3schools.com/python/python_dictionaries.asp
 https://www.geeksforgeeks.org/python-dictionary/
+https://www.w3schools.com/python/python_functions.asp
